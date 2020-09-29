@@ -27,11 +27,17 @@ Lobster is one of the most commercially lucrative marine species in North Americ
 
 ## Methodology
 
-LCAs include four components: goal and scope definition, life cycle inventory analysis, life cycle impact assessment and interpretation.
+LCAs include four components: goal and scope definition, life cycle inventory analysis, life cycle impact assessment and interpretation (results).
 
-i. Goal and scope: This study was designed to quantify the environmental impacts of the Maine and LFA 34 lobster fisheries. One metric ton of live lobster delivered from Maine to Boston, and from LFA 34 to Las Vegas are used as the functional units for analyses .
+i. Goal and scope: This study was designed to quantify the environmental impacts of the Maine and LFA 34 lobster fisheries. One metric ton of live lobster delivered from Maine to Boston,Massachusetts and from LFA 34 to Las Vegas, Nevada are used as the functional units for analyses. Lobstermen use post-processing remnants of several fish species as bait. The environmental cost associated with baits were allocated by mass.
 
-ii. Life Cycle Inventory: 
+ii. Life Cycle Inventory (Data Collection): 
+For the Maine LCA, data about fishing effort, trap use, vessel properties, fuel and bait use, and lobster landings were collected through a survey of 4000 lobster license holders. Further information were collected through interviews with representatives.
+For LFA 34, a questionnaire was administered to 250 of the 979 licensed lobstermen. The lobstermen were chosen in a way that a variety of fishing communities were represented. Information regarding operational energy inputs were collected through telephone and in person interviews with indstry representatives.
+
+iii. Impact Assessment: Six impact categories were selected to study the environmental impact: Global Warming Potential (GWP), Freshwater Acidification Potential (AP), Stratospheric Ozone Depletion Potential (ODP), Cumulative Energy Demand (CED), Abiotic Resource USe (ARU), and Biotic Resource Use (BRU).Life cycle impact to five of the six categories were quantified using SimaPro, whereas BRU was determined through Primary Production Required (PRR) method.
+
+## Results
 
 ## R Markdown
 
