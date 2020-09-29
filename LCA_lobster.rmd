@@ -39,6 +39,10 @@ iii. Impact Assessment: Six impact categories were selected to study the environ
 
 ## Results
 
+![Figure 1. Environmental impacts per ton of live lobster held in regional storage, sourced from the Maine and Nova Scotia lobster fisheries.](C:\Users\Pema\Downloads\ENVS4826Assignment2.jpg)
+
+
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
