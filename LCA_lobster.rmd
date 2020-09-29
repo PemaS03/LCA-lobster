@@ -12,8 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```r{myname}
 Submitted by: Pema Sherpa
 ```
-
-
+```r{githublink}
+Github Link: https://github.com/PemaS03/LCA-lobster.git
+```
 
 
 ```r{bibliography}
@@ -38,6 +39,9 @@ For LFA 34, a questionnaire was administered to 250 of the 979 licensed lobsterm
 iii. Impact Assessment: Six impact categories were selected to study the environmental impact: Global Warming Potential (GWP), Freshwater Acidification Potential (AP), Stratospheric Ozone Depletion Potential (ODP), Cumulative Energy Demand (CED), Abiotic Resource USe (ARU), and Biotic Resource Use (BRU).Life cycle impact to five of the six categories were quantified using SimaPro, whereas BRU was determined through Primary Production Required (PRR) method.
 
 ## Results
+
+
+
 
 ![Figure 1. Environmental impacts per ton of live lobster held in regional storage, sourced from the Maine and Nova Scotia lobster fisheries.](C:\Users\Pema\Downloads\ENVS4826Assignment2.jpg)
 
