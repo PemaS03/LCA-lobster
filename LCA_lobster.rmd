@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```r{my name}
+```r{myname}
 Submitted by: Pema Sherpa
 ```
 
