@@ -1,5 +1,5 @@
 ---
-title: "Review of Life cycle assessment of the Maine and southwest Nova Scotia lobster industries"
+title: "Review of: Life cycle assessment of the Maine and southwest Nova Scotia lobster industries"
 author: "Pema Sherpa"
 date: "29/09/2020"
 output: html_document
@@ -23,7 +23,15 @@ Bibliography: Driscoll, J., Boyd, C., & Tyedmers, P. (2015, August 24). Life cyc
 
 ## Introduction
 
-There are very few studies conducted on the environmental impact of commercial lobster fishing. This study compares the life cycle assessment (LCA) of American lobster (*Homarus americanus*) fisheries in Maine, for the calendar year 2006,  and southwestern Nova Scotia, during the 2005-2006 fishing season. The potential influences of different policy and management systems on the two fisheries during the specified time periods is discussed. 
+Lobster is one of the most commercially lucrative marine species in North America. However, there are very few studies conducted on the environmental impact of commercial lobster fishing. This study compares the life cycle assessment (LCA) of American lobster (*Homarus americanus*) fisheries in Maine  and southwestern Nova Scotia, during the calendar year 2006. The potential influences of different policy and management systems on the two fisheries, during the specified time periods, is discussed. Maine and Nova Scotia produced the greatest amount of lobster in their respective nations in the year this study took place. Waters in Atlantic Canada are divided into Lobster Fishing Areas (LFAs), with the most productive one being LFA 34. This study takes a look at lobster fishing in MAine and LFA 34 in southwestern Nova Scotia. 
+
+## Methodology
+
+LCAs include four components: goal and scope definition, life cycle inventory analysis, life cycle impact assessment and interpretation.
+
+i. Goal and scope: This study was designed to quantify the environmental impacts of the Maine and LFA 34 lobster fisheries. One metric ton of live lobster delivered from Maine to Boston, and from LFA 34 to Las Vegas are used as the functional units for analyses .
+
+ii. Life Cycle Inventory: 
 
 ## R Markdown
 
