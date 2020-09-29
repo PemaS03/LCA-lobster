@@ -13,9 +13,14 @@ knitr::opts_chunk$set(echo = TRUE)
 Submitted by: Pema Sherpa
 ```
 
+# Review of "Life cycle assessment of the Maine and southwest Nova Scotia lobster industries"
+
+
 ```r{bibliography}
+By
 Driscoll, J., Boyd, C., & Tyedmers, P. (2015, August 24). Life cycle assessment of the Maine and southwest Nova Scotia lobster industries. Fisheries Research, 172(2015), 385-400. https://doi.org/10.1016/j.fishres.2015.08.007
 ```
+#
 
 ## R Markdown
 
