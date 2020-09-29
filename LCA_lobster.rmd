@@ -1,5 +1,5 @@
 ---
-title: "LCA lobster"
+title: "Review of Life cycle assessment of the Maine and southwest Nova Scotia lobster industries"
 author: "Pema Sherpa"
 date: "29/09/2020"
 output: html_document
@@ -13,14 +13,17 @@ knitr::opts_chunk$set(echo = TRUE)
 Submitted by: Pema Sherpa
 ```
 
-# Review of "Life cycle assessment of the Maine and southwest Nova Scotia lobster industries"
+
 
 
 ```r{bibliography}
-By
-Driscoll, J., Boyd, C., & Tyedmers, P. (2015, August 24). Life cycle assessment of the Maine and southwest Nova Scotia lobster industries. Fisheries Research, 172(2015), 385-400. https://doi.org/10.1016/j.fishres.2015.08.007
+Bibliography: Driscoll, J., Boyd, C., & Tyedmers, P. (2015, August 24). Life cycle assessment of the Maine and southwest Nova Scotia lobster industries. Fisheries Research, 172(2015), 385-400. https://doi.org/10.1016/j.fishres.2015.08.007
 ```
 #
+
+## Introduction
+
+There are very few studies conducted on the environmental impact of commercial lobster fishing. This study compares the life cycle assessment (LCA) of American lobster (*Homarus americanus*) fisheries in Maine, for the calendar year 2006,  and southwestern Nova Scotia, during the 2005-2006 fishing season. The potential influences of different policy and management systems on the two fisheries during the specified time periods is discussed. 
 
 ## R Markdown
 
