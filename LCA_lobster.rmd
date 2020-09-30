@@ -1,5 +1,5 @@
 ---
-title: "Review of: Life cycle assessment of the Maine and southwest Nova Scotia lobster industries"
+title: "**Summary of: Life cycle assessment of the Maine and southwest Nova Scotia lobster industries**"
 author: "Pema Sherpa"
 date: "29/09/2020"
 output: html_document
@@ -22,47 +22,31 @@ Bibliography: Driscoll, J., Boyd, C., & Tyedmers, P. (2015, August 24). Life cyc
 ```
 #
 
-## Introduction
+## **Introduction**
 
-Lobster is one of the most commercially lucrative marine species in North America. However, there are very few studies conducted on the environmental impact of commercial lobster fishing. This study compares the life cycle assessment (LCA) of American lobster (*Homarus americanus*) fisheries in Maine  and southwestern Nova Scotia, during the calendar year 2006. The potential influences of different policy and management systems on the two fisheries, during the specified time periods, is discussed. Maine and Nova Scotia produced the greatest amount of lobster in their respective nations in the year this study took place. Waters in Atlantic Canada are divided into Lobster Fishing Areas (LFAs), with the most productive one being LFA 34. This study takes a look at lobster fishing in MAine and LFA 34 in southwestern Nova Scotia. 
+Lobster is one of the most commercially lucrative marine species in North America. However, there are very few studies conducted on the environmental impact of commercial lobster fishing. This study compares the life cycle assessment (LCA) of American lobster (*Homarus americanus*) fisheries in Maine  and southwestern Nova Scotia, during the calendar year 2006. The potential influences of different policy and management systems on the two fisheries, during the specified time periods, is discussed. Maine and Nova Scotia produced the greatest amount of lobster in their respective nations in 2006. Waters in Atlantic Canada are divided into Lobster Fishing Areas (LFAs), with the most productive one being LFA 34. This study takes a look at lobster fishing in Maine and LFA 34 in southwestern Nova Scotia. 
 
-## Methodology
+## **Methodology**
 
 LCAs include four components: goal and scope definition, life cycle inventory analysis, life cycle impact assessment and interpretation (results).
 
-i. Goal and scope: This study was designed to quantify the environmental impacts of the Maine and LFA 34 lobster fisheries. One metric ton of live lobster delivered from Maine to Boston,Massachusetts and from LFA 34 to Las Vegas, Nevada are used as the functional units for analyses. Lobstermen use post-processing remnants of several fish species as bait. The environmental cost associated with baits were allocated by mass.
+i. **Goal and scope**: This study was designed to quantify the environmental impacts of the Maine and LFA 34 lobster fisheries. One metric ton of live lobster delivered from Maine to Boston, Massachusetts and from LFA 34 to Las Vegas, Nevada are used as the functional units for analyses. Lobstermen use post-processing remnants of several fish species as bait. The environmental cost associated with baits were allocated by mass.
 
-ii. Life Cycle Inventory (Data Collection): 
+ii. **Life Cycle Inventory (Data Collection)**: 
 For the Maine LCA, data about fishing effort, trap use, vessel properties, fuel and bait use, and lobster landings were collected through a survey of 4000 lobster license holders. Further information were collected through interviews with representatives.
-For LFA 34, a questionnaire was administered to 250 of the 979 licensed lobstermen. The lobstermen were chosen in a way that a variety of fishing communities were represented. Information regarding operational energy inputs were collected through telephone and in person interviews with indstry representatives.
+For LFA 34, a questionnaire was administered to 250 of the 979 licensed lobstermen. The lobstermen were chosen in a way that a variety of fishing communities were represented. Information regarding operational energy inputs were collected through telephone and in-person interviews with industry representatives.
 
-iii. Impact Assessment: Six impact categories were selected to study the environmental impact: Global Warming Potential (GWP), Freshwater Acidification Potential (AP), Stratospheric Ozone Depletion Potential (ODP), Cumulative Energy Demand (CED), Abiotic Resource USe (ARU), and Biotic Resource Use (BRU).Life cycle impact to five of the six categories were quantified using SimaPro, whereas BRU was determined through Primary Production Required (PRR) method.
+iii. **Impact Assessment**: Six impact categories were selected to study the environmental impact: Global Warming Potential (GWP), Freshwater Acidification Potential (AP), Stratospheric Ozone Depletion Potential (ODP), Cumulative Energy Demand (CED), Abiotic Resource Use (ARU) and Biotic Resource Use (BRU). Life cycle impact to five of the six categories were quantified using SimaPro, whereas BRU was determined through Primary Production Required (PRR) method.
 
-## Results
+## **Results**
 
-
-
-
-![Figure 1. Environmental impacts per ton of live lobster held in regional storage, sourced from the Maine and Nova Scotia lobster fisheries.](C:\Users\Pema\Downloads\ENVS4826Assignment2.jpg)
+The primary source of impact was the use of diesel boat in the fishery stage. Post capture transportation of lobster by air from Nova Scotia to Las Vegas was the major contributor in the LFA 34 model. Provision and use of bait was a significant contributor in Maine. Maine lobstermen reported using three kilograms of bait per kilogram of lobster landings, while LFA 34 lobstermen reported using only one kilogram of bait per kilogram landings. Due to this factor, Maine lobster fishery had slightly higher global environmental impacts than southwestern Nova Scotia. However, the contribution of the two fishing industries towards various impact categories were found to be broadly similar. Figure 1 compares the impacts of Maine fishing industry for the calendar year 2006, and Nova Scotia fishing industy in 2005-2006 fishing season.
 
 
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+![*Figure 1. Environmental impacts per ton of live lobster held in regional storage, sourced from the Maine and Nova Scotia lobster fisheries.*](C:\Users\Pema\Downloads\ENVS4826Assignment2.jpg)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
