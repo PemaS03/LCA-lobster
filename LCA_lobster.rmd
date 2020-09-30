@@ -38,9 +38,9 @@ For LFA 34, a questionnaire was administered to 250 of the 979 licensed lobsterm
 
 iii. **Impact Assessment**: Six impact categories were selected to study the environmental impact: Global Warming Potential (GWP), Freshwater Acidification Potential (AP), Stratospheric Ozone Depletion Potential (ODP), Cumulative Energy Demand (CED), Abiotic Resource Use (ARU) and Biotic Resource Use (BRU). Life cycle impact to five of the six categories were quantified using SimaPro, whereas BRU was determined through Primary Production Required (PRR) method.
 
-## **Results**
+## **Results and Conclusion**
 
-The primary source of impact was the use of diesel boat in the fishery stage. Post capture transportation of lobster by air from Nova Scotia to Las Vegas was the major contributor in the LFA 34 model. Provision and use of bait was a significant contributor in Maine. Maine lobstermen reported using three kilograms of bait per kilogram of lobster landings, while LFA 34 lobstermen reported using only one kilogram of bait per kilogram landings. Due to this factor, Maine lobster fishery had slightly higher global environmental impacts than southwestern Nova Scotia. However, the contribution of the two fishing industries towards various impact categories were found to be broadly similar. Figure 1 compares the impacts of Maine fishing industry for the calendar year 2006, and Nova Scotia fishing industy in 2005-2006 fishing season.
+Figure 1 compares the impacts of Maine fishing industry for the calendar year 2006, and Nova Scotia fishing industy in 2005-2006 fishing season. The primary source of impact was the use of diesel boat in the fishery stage. Post capture transportation of lobster by air from Nova Scotia to Las Vegas was the major contributor in the LFA 34 model. Provision and use of bait was a significant contributor in Maine. Maine lobstermen reported using three kilograms of bait per kilogram of lobster landings, while LFA 34 lobstermen reported using only one kilogram of bait per kilogram landings. Due to this factor, Maine lobster fishery had slightly higher global environmental impacts than southwestern Nova Scotia. However, the contribution of the two fishing industries towards various impact categories were found to be broadly similar. 
 
 
 
